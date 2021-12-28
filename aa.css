@@ -1,0 +1,283 @@
+body{
+    background-color: rgba(245, 245, 220, 0.315);
+}
+h1{
+    background-image: url(322106000746.jpg);
+    background-size: cover;
+    padding: 150px 0px;
+    text-align: center;
+    font-size: 60px;   
+    color: rgba(177, 230, 78, 0.856);
+}
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid wheat;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+h2{
+    background-color: rgba(128, 255, 0, 0.664);
+    width: 300px;
+    border: 3px solid rgb(255, 187, 0);
+    border-radius: 10px;
+    font-size:32px;
+    margin-top: 40px;
+    text-align: center;
+}
+.h3bunnka{
+    margin-top: 0px;
+    margin-left: 20px;
+    font-size: 24px;
+    background-color: rgba(146, 251, 255, 0.87);
+    border-left: 5px solid rgb(65, 145, 236);
+   
+}
+.h3meido{
+    margin-top: 20px;
+    background-color: rgb(236, 155, 209);
+    font-size: 24px;
+    margin-left: 20px;
+    border-left: 5px solid rgb(218, 55, 82);
+}
+.kannsou{
+    font-size: 18px;
+    line-height: 1.5;
+}
+.kami{
+    font-size: 26px;
+    color: crimson;
+    font-weight:700;
+}
+.nigakki{
+    
+    font-size: 18px;
+}
+.nigakkinakami{
+    line-height: 2;
+}
+.bunnkasai{
+    line-height: 2;
+    font-size: 18px;
+}
+.a{
+    font-size: 18px;
+}
+.aa{
+    font-size: 18px;
+}
+.gaiyou{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgba(146, 251, 255, 0.87);
+    margin-top: 0px;
+    line-height: 1.5;
+    width: 95%;
+    margin: 0 auto;
+}
+.meidonakami{
+    font-size: 18px;
+    line-height: 2.5;
+}
+.aaa{
+    font-size: 22px;
+    color: crimson;
+    font-weight: 900;
+}
+.satou{
+    margin-top: 80px;
+    
+}
+.b{
+    font-weight: 900;
+    font-size: 22px;
+    color: black;
+}
+.c{
+    font-weight: 900;
+    font-size:23px;
+    color: black;
+    background-color: rgba(211, 243, 186, 0.473);
+}
+.cc{
+    background-color: rgba(224, 247, 216, 0.356);
+    font-weight: 900;
+    font-size:23px;
+    color: black;
+    width: 95%;
+    border: 2px solid rgb(190, 255, 174);
+    margin-bottom:  10px;
+}
+.karuizawanakami{
+    font-size: 18px;
+    line-height: 2.3;
+}
+blockquote{
+    
+
+    padding: 1.5em 1em;
+    margin: 2em 0;
+    color: #5d627b;
+    background-color: #f6fffa;
+    border-top: solid 5px #66a98b;
+    border-radius: 5px;
+    box-shadow: 0 3px 5px rgb(0 0 0 / 22%);
+
+}
+
+blockquote cite {
+    font-size: 0.7em;
+    color: black;
+}
+.am{
+    font-size: 0.7em;
+    color: black;
+    font-weight: 700;
+    text-align: right;
+}
+.h3sikenn{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: 24px;
+    background-color: rgba(255, 192, 98, 0.87);
+    border-left: 5px solid rgb(255, 145, 0);
+}
+.d{
+    color: rgb(238, 87, 87);
+    font-weight: 700;
+    font-size: 20px;
+}
+.bb{
+    font-size: 20px;
+    font-weight: 750;
+    margin-top: 10px;
+}
+.bbb{
+    font-weight: 900;
+    font-size: 22px;
+    color: rgb(81, 19, 87);
+}
+.e{
+    font-size:18px;
+    font-weight:800;
+    
+}
+.meidoimg{
+    position: relative;
+   text-align: center;
+ 
+}
+.meidosyasinn{
+    text-align: center;
+}
+.meidoimg img{
+    width:75%;
+}
+.meidojpg{
+    font-size: 50%;
+    color: #000000;
+    position: absolute;
+    top: 400px;
+    left: 320px;
+    
+}
+
+.z{
+    color: blueviolet;
+}
+.urlbox{
+    margin: 1.5em 0;
+    border: solid 1px #dbdbdb;
+    background-color: #fff;
+    box-shadow: 2px 3px 8px -5px rgb(0 0 0 / 25%);
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 23px;
+}
+.urlnakami{
+    display: flex;
+    box-sizing: border-box;
+    padding-left: 12px;
+    padding-top: 12px;
+}
+.ul{
+    margin-left: 10px;
+}
+
+
+.urlno{
+    color: rgba(0, 0, 0, 0.836);
+    text-decoration: none;
+    border: none;
+    box-sizing: border-box;
+    list-style: none;
+}
+.ulzenntai{
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 0.9em;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 18px;
+    color: white;
+    margin: 10px;
+    width: auto;
+    border-radius: 15px;
+    list-style: none;
+}
+
+.amazon{    
+    background-color: rgba(55, 81, 199, 0.966);
+}
+.rakutenn{
+    background-color: rgba(255, 94, 94, 0.918);
+}
+.bookwalker{
+    background-color: rgba(0, 128, 0, 0.849);
+}
+.yahoo{
+    background-color: rgba(253, 146, 199, 0.897);
+}
+.amazon:hover{
+    background-color:rgba(55, 81, 199, 0.603); 
+}
+.rakutenn:hover{
+    background-color: rgba(255, 94, 94, 0.61);
+}
+.bookwalker:hover{
+    background-color: rgba(0, 128, 0, 0.562);
+}
+.yahoo:hover{
+    background-color: rgba(253, 146, 200, 0.623);
+}
+
+
+
+.mokuji{
+    border: solid 1px rgb(123, 123, 248);
+    width: 85%;
+    margin: 0 auto;
+    border-radius: 10px;
+    
+}
+.mokujititle{
+    background-color: rgba(52, 17, 180, 0.863);
+    color: white;
+    margin-top: 0px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 25px;
+}
+.mokuji-contents{
+    font-size: 18px;
+}
+.mokujizenntai{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+.mokujizenntai:hover{
+    color: rgb(148, 145, 145);
+}
